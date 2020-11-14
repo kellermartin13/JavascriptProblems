@@ -1,0 +1,8 @@
+{
+  "name": "Javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kellermartin13/JavascriptProblems.git",
+  "author": "Keller Martin <kmartin@appriss.com>",
+  "license": "MIT"
+}
