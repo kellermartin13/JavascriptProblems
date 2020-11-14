@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/kellermartin13/JavascriptProblems.git",
   "author": "Keller Martin <kmartin@appriss.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
 }
